@@ -2,4 +2,5 @@
 from ground up !
 
 a) svd --- done
-b) lora --- to do 
+
+b) lora --- done
